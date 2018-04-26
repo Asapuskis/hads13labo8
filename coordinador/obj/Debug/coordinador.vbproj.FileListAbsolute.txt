@@ -1,0 +1,120 @@
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\ApplicationInsights.config
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\csc.exe
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\vbc.exe
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\coordinador.dll.config
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\coordinador.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\coordinador.pdb
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\coordinador.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\accesoDatosSQL.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\accesoDatosSQL.pdb
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\accesoDatosSQL.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\obj\Debug\coordinador.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\obj\Debug\coordinador.Resources.resources
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\obj\Debug\coordinador.vbproj.GenerateResource.Cache
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\obj\Debug\coordinador.dll
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\obj\Debug\coordinador.xml
+C:\Users\ehu\Downloads\hads13labo7-master\hads13labo7-master\coordinador\obj\Debug\coordinador.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\ApplicationInsights.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\csc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\System.Collections.Immutable.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\System.Reflection.Metadata.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\vbc.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\VBCSCompiler.exe
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\roslyn\VBCSCompiler.exe.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\coordinador.dll.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\coordinador.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\coordinador.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\coordinador.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.Agent.Intercept.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.DependencyCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.Web.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.WindowsServer.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.ApplicationInsights.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.DependencyCollector.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.Web.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.AI.WindowsServer.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.ApplicationInsights.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\obj\Debug\coordinador.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\obj\Debug\coordinador.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\obj\Debug\coordinador.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\obj\Debug\coordinador.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\obj\Debug\coordinador.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\coordinador\obj\Debug\coordinador.pdb
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\ApplicationInsights.config
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\csc.exe
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\vbc.exe
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\coordinador.dll.config
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\coordinador.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\coordinador.pdb
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\coordinador.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\accesoDatosSQL.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\accesoDatosSQL.pdb
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\accesoDatosSQL.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\obj\Debug\coordinador.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\obj\Debug\coordinador.Resources.resources
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\obj\Debug\coordinador.vbproj.GenerateResource.Cache
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\obj\Debug\coordinador.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\obj\Debug\coordinador.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\coordinador\obj\Debug\coordinador.pdb

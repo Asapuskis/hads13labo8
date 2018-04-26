@@ -1,0 +1,51 @@
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\ApplicationInsights.config
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.dll.config
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.pdb
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.Resources.resources
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.vbproj.GenerateResource.Cache
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.xml
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.pdb
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\accesoDatosSQL.dll
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\accesoDatosSQL.pdb
+C:\Users\ehu\Downloads\hads13labo8\hads13labo8\gestionServicio\bin\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\ApplicationInsights.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.dll.config
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\gestionServicio.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\accesoDatosSQL.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.Agent.Intercept.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.DependencyCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.Web.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.WindowsServer.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.ApplicationInsights.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\accesoDatosSQL.pdb
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\accesoDatosSQL.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.DependencyCollector.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.Web.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.AI.WindowsServer.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\bin\Microsoft.ApplicationInsights.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.vbprojResolveAssemblyReference.cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.Resources.resources
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.vbproj.GenerateResource.Cache
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.dll
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.xml
+U:\Apuntes\ing inf\4º\HADS\hads13labo8\hads13labo8\gestionServicio\obj\Debug\gestionServicio.pdb
